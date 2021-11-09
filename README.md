@@ -170,8 +170,11 @@ Formatting the text and cells in the totalVolume column
      End Sub
 
 
-![2017 run time - 0.109375 seconds](stock_analysis/VBA_challenge_2017.png)
+![2017 run time - 0.109375 seconds]<img width="1440" alt="VBA_challenge_2017" src="https://user-images.githubusercontent.com/91028094/140845642-352839cf-9db9-4ef5-9c7e-520768a41cce.png">
 
 
 
-![2018 run time - 0.101562 seconds](stock_analysis/VBA_challenge_2018.png)
+
+![2018 run time - 0.101562 seconds]<img width="1440" alt="VBA_challenge_2018" src="https://user-images.githubusercontent.com/91028094/140845657-541943a6-9e3d-4961-a770-62357fae98f9.png">
+
+
