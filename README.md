@@ -56,7 +56,7 @@ a) I created the tickerIndex variable = 0.
            tickerIndex = 0
 
 b) Created the output arrays as follows:
-- tickerVolumes as **_long_** because the long data type have a range of whole numbers between -2 billion to 2 billion.
+- tickerVolumes as **_long_** because the long data type have a range of whole numbers between -2 billion to +2 billion.
 - tickerStarting prices and tickerEnding prices as **_Single_** because single data type is **_32 bits_** so it means it takes less memory than **_Double_** data type which stores value in **_64 bits_**.
              
        Dim tickerVolumes(12) As Long
